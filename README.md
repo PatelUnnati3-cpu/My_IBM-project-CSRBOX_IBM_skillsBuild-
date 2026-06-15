@@ -45,6 +45,7 @@ Phishing_detector/
 - Python 3.12
 - Google Chrome browser
 - VS Code (recommended)
+Note: (plz)Open the repo in vs code for better integration.
 
 ---
 
